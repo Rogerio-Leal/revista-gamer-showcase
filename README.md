@@ -1,4 +1,4 @@
-# 🎮 Revista Gamer — Portal de Notícias & E-sports
+# 🎮 Revista Gamer — Portal de Notícias
 
 > **Acesse o projeto online:** https://revistagamer.com.br
 
